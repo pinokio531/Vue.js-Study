@@ -8,7 +8,7 @@ WebStudy(Front-End) using vue.js Framework
 
 # bash 창에서 명령어 입력(순서대로)
 
-  - npm install -g vue-cli
+  - $ npm install -g vue-cli
       -> 맨 처음에만 실시할 것
       
   - $ vue init webpack-simple (project_name) or $ vue init webpack (project_name)
